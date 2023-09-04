@@ -1,6 +1,0 @@
-{{#user}}
-Name: Wamique Ansari
-Skills: Linux, Docker, GIT, AWS, Jenkins.
-Email: mohd.wamiqueansari@gmail.com
-{{/user}}
-
